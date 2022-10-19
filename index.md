@@ -1,4 +1,6 @@
+![images](https://user-images.githubusercontent.com/116158175/196679702-4c7cd078-4216-4e3c-9fca-a8ac54c8f874.jpg) 
 # Marçal Companys Gomez
+
 ### Sobremi:
 Estudiante de informatica, jugador y entrenador de futbol, sociable y puntual
 ## Datos academicos:
